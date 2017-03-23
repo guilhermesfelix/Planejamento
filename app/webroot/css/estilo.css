@@ -1,0 +1,107 @@
+#footer {
+	background-color: #fff;
+	border-top: solid 2px;
+	text-align: center;
+	color: #888;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	padding-top: 10px;
+}
+
+#icone {
+	max-width: 16px;
+	max-height: 16px;
+}
+
+#logo {
+	width: 500px;
+	max-height: 380px;
+}
+
+#menu {
+	margin-bottom: 55px;
+}
+
+#recuperar {
+	text-decoration: none;
+	color: #fff;
+	font-size: 12px;
+}
+
+#recuperar:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+
+#content {
+	margin-bottom: 50px;
+}
+
+#dados {
+	font-size: 16px;
+	font-family: sans-serif;
+}
+
+#discButton {
+	font-family: initial;
+	padding: 2px 15px;
+}
+
+#teste {
+	padding-right: 8px;
+}
+
+#textarea {
+  height: 160px;
+  width: 265px;
+}
+
+#backData {
+	background-color: #eee;
+	font-family: sans-serif;
+	padding: 2px;
+}
+
+
+/* ----------------------------------------
+    scrollUp
+---------------------------------------- */
+
+/* Image style */
+#scrollUp {
+    background-image: url("../img/top.png");
+    bottom: 20px;
+    right: 20px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
+}
+
+#glyphicon {
+	position: relative;
+  	display: inline;
+  	font-family: 'Glyphicons Halflings';
+  	font-style: normal;
+  	font-weight: normal;
+  	line-height: 1;
+  	width: 24px;
+  	padding-right: 6px;
+
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
+
+#glyphiconNote {
+	position: relative;
+  	display: inline;
+  	font-family: 'Glyphicons Halflings';
+  	font-style: normal;
+  	font-weight: normal;
+  	line-height: 1;
+  	width: 20px;
+  	padding-right: 6px;
+
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+}
+
+
